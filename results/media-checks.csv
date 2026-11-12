@@ -1,0 +1,13 @@
+run,width,height,fps,frames,frame_cadence_breaks,near_black_frames,identical_adjacent_luma_frames,audio_sample_rate_hz,audio_channels,audio_seconds,audio_rms_dbfs,audio_peak_dbfs,audio_samples_at_or_above_full_scale,nonfinite_audio_samples,passed_structural_checks
+car-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-19.202,-0.614,0,0,true
+car-turbo4,854,480,24,73,0,0,0,32000,2,3.041688,-14.056,-1.147,0,0,true
+car-native,854,480,24,73,0,0,0,32000,2,3.041688,-14.174,0.404,3,0,true
+pottery-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-36.731,-21.698,0,0,true
+pottery-turbo4,854,480,24,73,0,0,0,32000,2,3.041688,-14.092,-1.190,0,0,true
+motion-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-13.991,-3.785,0,0,true
+motion-right-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-13.984,-5.477,0,0,true
+motion-turbo4,854,480,24,73,0,0,0,32000,2,3.041688,-14.263,-1.646,0,0,true
+portrait-native,854,480,24,73,0,0,0,32000,2,3.041688,-19.653,-2.915,0,0,true
+portrait-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-27.927,-5.157,0,0,true
+product-pdmd,854,480,24,73,0,0,0,32000,2,3.041688,-13.990,-3.514,0,0,true
+product-turbo4,854,480,24,73,0,0,0,32000,2,3.041688,-13.976,-2.237,0,0,true

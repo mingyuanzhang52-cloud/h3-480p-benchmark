@@ -1,0 +1,15 @@
+run,scene,merged_adapter,generation_width,generation_height,steps,sampler,video_shift,audio_shift,seed,output_width,output_height,fps,frames,video_seconds,execution_seconds,wall_seconds_per_video_second,meets_30_seconds_per_video_second
+car-turbo4,car,turbo4,576,320,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,75.379,24.782137,true
+pottery-turbo4,pottery,turbo4,576,320,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,75.256,24.741699,true
+car-native,car,turbo4,864,480,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,164.950,54.230137,false
+car-turbo4-native-2step,car,turbo4,864,480,2,res_multistep,12,3,20261023,854,480,24,73,3.041667,108.741,35.750466,false
+car-pdmd-native,car,pdmd2,864,480,2,euler,12,6,20261023,854,480,24,73,3.041667,114.049,37.495562,false
+car-pdmd,car,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,78.848,25.922630,true
+pottery-pdmd,pottery,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,78.149,25.692822,true
+portrait-pdmd,portrait,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,78.329,25.752000,true
+portrait-native,portrait,turbo4,864,480,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,174.881,57.495123,false
+motion-pdmd,motion,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,89.388,29.387836,true
+motion-turbo4,motion,turbo4,576,320,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,87.280,28.694795,true
+product-pdmd,product,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,93.142,30.622027,false
+product-turbo4,product,turbo4,576,320,4,res_multistep,12,3,20261023,854,480,24,73,3.041667,86.913,28.574137,true
+motion-right-pdmd,motion-right,pdmd2,768,432,2,euler,12,6,20261023,854,480,24,73,3.041667,91.341,30.029918,false
